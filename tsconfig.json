@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "types": [
+      "jest"
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "include": [
+    "**/*.ts"
+  ]
+}
